@@ -5,6 +5,7 @@
 
 ###2Planner and Engineer, Resource Systems Group, Inc; Email: nichfournier@gmail.com; ORCID: 0000-0002-4722-4138
 
+
 ###3Professor, Department of Civil Engineering, University of California Berkeley, 320 Mclaughlin Hall, Berkeley, CA 94720; Email: dromeas@berkeley.edu, ORCID: 0000-0002-7064-5993
 
 #Abstract:
@@ -12,6 +13,7 @@ The improved first and last-mile (FALM) network connectivity encourages more peo
 
 #Practical Applications:
 Generally, first and last-mile connectivity is important to attract more people to use bicycles from home to transit stops or vice versa. However, it is critical for the agencies to understand how much their transit stops are connected with their surroundings and where connectivity improvement is required through building new infrastructures. This study proposed new weighted shortest path-based algorithms to measure transit stops FALM connectivity using LTS, road gradients, and length of the segments. The algorithms can also be applied for entire network connectivity measurements through designated bicycle facilities or low-stress networks. The practitioner can apply these methods to measure the connectivity for the transit stops to decide on future possible network connectivity improvements.
+
 
 #Keywords: Network, Level of Traffic Stress, Connectivity, Shortest Path, Bicycle, Transit Stops, First and Last Mile	
 
